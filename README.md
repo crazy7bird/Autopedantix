@@ -27,6 +27,7 @@ I started added more functions like :
 After all the messy code i write by discovering how i can optimize the speed of my script, i started a V2, thats was mainly here to clean the code and strat an architecture.
 
 # Conclusion.
-Have fun using it and watch this :
+Have fun using it and watch this :  
+[Trophies room](https://github.com/crazy7bird/Autopedantix/blob/2fe43f3ed51eb7fd8644d5068f0f1462a0bdfb49/trophy/README.md)
 
 
